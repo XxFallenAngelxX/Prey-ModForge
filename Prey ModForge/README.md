@@ -5,9 +5,9 @@
 This script is designed to help modders of the game Prey (2017) by modifying specific XML files to adjust recycle values. The script creates a new mod with user-specified multipliers for the recycle values and saves the modified files in a new folder, preserving the original database files.
 
 ## Folder Structure
-Ensure the following folder structure is present within the `ModdingTemplate` directory:
+Ensure the following folder structure is present within the `Prey ModForge` directory:
 
-ModdingTemplate
+Prey ModForge
 ├── Database
 │   └── Libs
 │       └── EntityArchetypes
@@ -30,7 +30,7 @@ Currently, this script supports modifying the following XML attributes:
 - RecycleData
 
 ## How to Use
-1. **Run the Script**: Navigate to the `ModdingTemplate` directory and execute the `run_prey_mod.bat` file to start the script using Python 3.12 from the Microsoft Store (dev pack).
+1. **Run the Script**: Navigate to the `Prey ModForge` directory and execute the `Prey-ModForge.bat` file to start the script using Python 3.12 from the Microsoft Store (dev pack).
 
 2. **Follow the Prompts**:
     - **Mod Name**: Enter a name for your mod when prompted.
