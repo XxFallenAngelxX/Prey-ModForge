@@ -102,8 +102,8 @@ def main():
         print("│           ├── ArkHumans.xml")
         print("│           └── ArkGameplayArchitecture.xml")
         print("├── Patched")
-        print("├── prey_mod.py")
-        print("└── run_prey_mod.bat" + Style.RESET_ALL)
+        print("├── Prey-ModForge.py")
+        print("└── Run-Prey-ModForge.bat" + Style.RESET_ALL)
         
         print(Fore.YELLOW + "\nSupports Currently:" + Style.RESET_ALL)
         print(Fore.YELLOW + " - RecycleData" + Style.RESET_ALL)

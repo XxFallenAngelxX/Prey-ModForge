@@ -9,7 +9,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="3.0" organic="3.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="2.0" organic="2.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Ammo_GooGun" audioTrigger_PickupSFX="Play_Pickup_Ammo_GooGun" />
             <Stacks iCount="42" iDropIncrement="42" iFabricationCount="84" iMaxCount="10000" bRandomizeCount="1" iRandomMax="36" iRandomMin="12" bStackable="1" />
@@ -26,7 +26,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="3.0" organic="0.0" synthetic="3.0" />
+            <RecycleData exotic="0.0" mineral="2.0" organic="0.0" synthetic="2.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="100" iDropIncrement="100" iFabricationCount="200" iMaxCount="10000" bRandomizeCount="1" iRandomMax="50" iRandomMin="20" bStackable="1" />
@@ -43,7 +43,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="45.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Ammo_Shotgun" audioTrigger_PickupSFX="Play_Pickup_Ammo_Shotgun" />
             <Stacks iCount="4" iDropIncrement="4" iFabricationCount="12" iMaxCount="48" bRandomizeCount="1" iRandomMax="4" iRandomMin="1" bStackable="1" />
@@ -155,7 +155,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="9.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="6.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="" audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_Bar" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -177,7 +177,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="150.0" mineral="75.0" organic="75.0" synthetic="0.0" />
+            <RecycleData exotic="100.0" mineral="50.0" organic="50.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Psi_Hypo" audioTrigger_InventorySFX="Play_Pickup_PsiHypo" audioTrigger_PickupSFX="Play_Pickup_PsiHypo" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="2" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -199,7 +199,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="30.0" synthetic="60.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="20.0" synthetic="40.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_MedKit_Concept1" audioTrigger_InventorySFX="Play_Pickup_Medkit" audioTrigger_PickupSFX="Play_Pickup_Medkit" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -217,7 +217,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="300.0" mineral="75.0" organic="75.0" synthetic="75.0" />
+            <RecycleData exotic="200.0" mineral="50.0" organic="50.0" synthetic="50.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Neuromod" audioTrigger_PickupSFX="Play_Pickup_Neuromod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -234,7 +234,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="75.0" mineral="150.0" organic="0.0" synthetic="150.0" />
+            <RecycleData exotic="50.0" mineral="100.0" organic="0.0" synthetic="100.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Grenade" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="10" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="1" />
@@ -256,7 +256,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="75.0" organic="0.0" synthetic="75.0" />
+            <RecycleData exotic="0.0" mineral="50.0" organic="0.0" synthetic="50.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_O2_Bottle" audioTrigger_InventorySFX="Play_Pickup_Q2_Bottle" audioTrigger_PickupSFX="Play_Pickup_Q2_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="999" bRandomizeCount="0" iRandomMax="5" iRandomMin="1" bStackable="1" />
@@ -326,7 +326,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="450.0" organic="0.0" synthetic="300.0" />
+            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="200.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_UI_Inventory_Menu_Pickup" audioTrigger_PickupSFX="Play_Pickup_LaserGun" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -348,7 +348,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="75.0" />
+            <RecycleData exotic="0.0" mineral="200.0" organic="0.0" synthetic="50.0" />
             <Shotgun fAccurateShotChance="1" fAimRange="5" fDamageDropoffPerMeter="0.1" fEffectiveRange="8" nNumberOfPelletColumns="3" nNumberOfPelletRows="3" fSpreadConeDegrees="8">
                 <DebugTesting fDebugDrawTime="10" nNumTestPoints="1000" />
                 <Dispersion fAmount_Jumping="0" fAmount_Recoil="0" fAmount_Sliding="0" fMaximum="15" fMaximumCrawling="15" fMaximumIronsights="15" fMaximumSneaking="15" fMinimum="15" fMinimumCrawling="15" fMinimumIronsights="15" fMinimumSneaking="15" fRate_Crawling="0" fRate_IronSights="0" fRate_Moving="0" fRate_NotMoving="0" fRate_NotTurning="0" fRate_Sneaking="0" fRate_Sprinting="0" fRate_Standing="0" fRate_Turning="0" fRate_ZeroG="0" />
@@ -596,7 +596,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="200.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Wrench" audioTrigger_PickupSFX="Play_Pickup_Wrench" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="0" />
@@ -619,7 +619,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="450.0" organic="0.0" synthetic="300.0" />
+            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="200.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_GooGun" audioTrigger_PickupSFX="Play_Pickup_GooGun" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="0" />
@@ -645,7 +645,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -668,7 +668,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -690,7 +690,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="6.0" organic="15.0" synthetic="6.0" />
+            <RecycleData exotic="0.0" mineral="4.0" organic="10.0" synthetic="4.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Bag" audioTrigger_PickupSFX="Play_Pickup_Bag" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -712,7 +712,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Organics_01" audioTrigger_PickupSFX="Play_Pickup_Organics_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -734,7 +734,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_Food_Produce" audioTrigger_InventorySFX="Play_Pickup_Organics_02" audioTrigger_PickupSFX="Play_Pickup_Organics_02" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -802,7 +802,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="150.0" />
+            <RecycleData exotic="0.0" mineral="100.0" organic="0.0" synthetic="100.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Grenade" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="10" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="1" />
@@ -836,7 +836,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="3.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="2.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Tracking_Chip" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -853,7 +853,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="75.0" organic="0.0" synthetic="75.0" />
+            <RecycleData exotic="0.0" mineral="50.0" organic="0.0" synthetic="50.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_MultiTool" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="50" bRandomizeCount="0" iRandomMax="2" iRandomMin="1" bStackable="1" />
@@ -870,7 +870,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="60.0" />
+            <RecycleData exotic="0.0" mineral="100.0" organic="0.0" synthetic="40.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_WeaponPack" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -887,7 +887,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="15.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="10.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PickupSFX="Play_Pickup_Pharma" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -904,7 +904,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="15.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="10.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -921,7 +921,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="90.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_BioBag_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -938,7 +938,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="144.0" organic="0.0" synthetic="36.0" />
+            <RecycleData exotic="0.0" mineral="96.0" organic="0.0" synthetic="24.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Coil_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -955,7 +955,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="99.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="66.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_PlasticTubing_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -972,7 +972,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="36.0" organic="0.0" synthetic="90.0" />
+            <RecycleData exotic="0.0" mineral="24.0" organic="0.0" synthetic="60.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_Burnt_Circuit_Board" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -989,7 +989,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="108.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="72.0" organic="0.0" synthetic="30.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_FrayedWire_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1006,7 +1006,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1045,7 +1045,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="15.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="10.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="" audioTrigger_InventorySFX="Play_Pickup_Organics_01" audioTrigger_PickupSFX="Play_Pickup_Organics_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1079,7 +1079,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="15.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="10.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1114,7 +1114,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="225.0" organic="0.0" synthetic="105.0" />
+            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="70.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_SpaceBlanket" audioTrigger_PickupSFX="Play_PU_ComputerPart_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1136,7 +1136,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1171,7 +1171,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1188,7 +1188,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="18.0" organic="0.0" synthetic="6.0" />
+            <RecycleData exotic="0.0" mineral="12.0" organic="0.0" synthetic="4.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Ammo_Pistol" />
             <Stacks iCount="15" iDropIncrement="15" iFabricationCount="30" iMaxCount="90" bRandomizeCount="1" iRandomMax="9" iRandomMin="5" bStackable="1" />
@@ -1206,7 +1206,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="225.0" organic="0.0" synthetic="75.0" />
+            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="50.0" />
             <Shotgun fAccurateShotChance="0.6" fDamageDropoffPerMeter="0.05" fEffectiveRange="15" nNumberOfPelletColumns="1" nNumberOfPelletRows="1" sOverrideTargetClasses="OverrideTargetClasses" fSpreadConeDegrees="0">
                 <DebugTesting fDebugDrawTime="20" nNumTestPoints="1000" />
                 <Dispersion fAmount_Jumping="50" fAmount_Recoil="50" fAmount_Sliding="50" fMaximum="4" fMaximumCrawling="2" fMaximumIronsights="2" fMaximumSneaking="2" fMaximumSprinting="5" fMinimum="3" fMinimumCrawling="1" fMinimumIronsights="1" fMinimumSneaking="1" fMinimumSprinting="4" fRate_Crawling="0" fRate_IronSights="0" fRate_Moving="10" fRate_NotMoving="-15" fRate_NotTurning="0" fRate_Sneaking="0" fRate_Sprinting="50" fRate_Standing="0" fRate_Turning="0" fRate_ZeroG="50" />
@@ -1249,7 +1249,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PickupSFX="Play_Pickup_Pharma" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1284,7 +1284,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1302,7 +1302,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1320,7 +1320,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1338,7 +1338,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1356,7 +1356,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1374,7 +1374,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1392,7 +1392,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1410,7 +1410,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1428,7 +1428,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1467,7 +1467,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Organics_02" audioTrigger_PickupSFX="Play_Pickup_Organics_02" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1489,7 +1489,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Organics_02" audioTrigger_PickupSFX="Play_Pickup_Organics_02" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1511,7 +1511,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_Food_Produce" audioTrigger_InventorySFX="Play_Pickup_Organics_02" audioTrigger_PickupSFX="Play_Pickup_Organics_02" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1533,7 +1533,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1555,7 +1555,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodCan" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1577,7 +1577,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1599,7 +1599,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="6.0" organic="15.0" synthetic="6.0" />
+            <RecycleData exotic="0.0" mineral="4.0" organic="10.0" synthetic="4.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Bag" audioTrigger_PickupSFX="Play_Pickup_Bag" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1621,7 +1621,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBowl" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1643,7 +1643,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="6.0" organic="15.0" synthetic="6.0" />
+            <RecycleData exotic="0.0" mineral="4.0" organic="10.0" synthetic="4.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Bag" audioTrigger_PickupSFX="Play_Pickup_Bag" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1665,7 +1665,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1687,7 +1687,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="6.0" organic="15.0" synthetic="6.0" />
+            <RecycleData exotic="0.0" mineral="4.0" organic="10.0" synthetic="4.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Bag" audioTrigger_PickupSFX="Play_Pickup_Bag" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1709,7 +1709,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodCan" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1731,7 +1731,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Eat" audioTrigger_InventorySFX="Play_Pickup_Bar" audioTrigger_PickupSFX="Play_Pickup_Dim_Sum" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1753,7 +1753,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1775,7 +1775,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_BoxedMeal" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1797,7 +1797,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_BoxedMeal" audioTrigger_InventorySFX="Play_Pickup_BoxedMeal" audioTrigger_PickupSFX="Play_Pickup_FoodBox" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1819,7 +1819,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Drink_Gulp" audioTrigger_InventorySFX="Play_UFI_Drink_Gulp" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1841,7 +1841,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Drink_Gulp" audioTrigger_InventorySFX="Play_UFI_Drink_Gulp" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1863,7 +1863,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Drink_Gulp" audioTrigger_InventorySFX="Play_UFI_Drink_Gulp" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1885,7 +1885,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1908,7 +1908,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1931,7 +1931,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1949,7 +1949,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="15.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="10.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -1966,7 +1966,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Organics_01" audioTrigger_PickupSFX="Play_Pickup_SelfDestructKey" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -1983,7 +1983,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Organics_01" audioTrigger_PickupSFX="Play_Pickup_SelfDestructKey" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2022,7 +2022,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2045,7 +2045,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2068,7 +2068,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="75.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="50.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2091,7 +2091,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2114,7 +2114,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2132,7 +2132,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2149,7 +2149,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="0" />
@@ -2183,7 +2183,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2200,7 +2200,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2217,7 +2217,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2234,7 +2234,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="90.0" organic="0.0" synthetic="150.0" />
+            <RecycleData exotic="0.0" mineral="60.0" organic="0.0" synthetic="100.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_Pistol" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2256,7 +2256,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="18.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="12.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Ammo_Narf" />
             <Stacks iCount="1" iDropIncrement="10" iFabricationCount="10" iMaxCount="50" bRandomizeCount="1" iRandomMax="3" iRandomMin="1" bStackable="1" />
@@ -2274,7 +2274,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="225.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="150.0" />
             <Shotgun fAccurateShotChance="1" nNumberOfPelletColumns="1" nNumberOfPelletRows="1" bShowAmmoOnHUD="1" fSpreadConeDegrees="0" fZeroGravityTime="0.3">
                 <DebugTesting fDebugDrawTime="20" nNumTestPoints="1000" />
                 <Dispersion fAmount_Jumping="0" fAmount_Recoil="0" fAmount_Sliding="0" fMaximum="0" fMaximumCrawling="0" fMaximumIronsights="0" fMaximumSneaking="0" fMinimum="0" fMinimumCrawling="0" fMinimumIronsights="0" fMinimumSneaking="0" fRate_Crawling="0" fRate_IronSights="0" fRate_Moving="0" fRate_NotMoving="0" fRate_NotTurning="-0.005" fRate_Sneaking="0" fRate_Sprinting="0" fRate_Standing="0" fRate_Turning="0.002" fRate_ZeroG="0" />
@@ -2300,7 +2300,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2317,7 +2317,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="15.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="10.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2334,7 +2334,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="40.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2351,7 +2351,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_Broken_Cooler_Fan" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2368,7 +2368,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="105.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="70.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_PlasmaBag" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2385,7 +2385,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="225.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_FrayedWire_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2402,7 +2402,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="135.0" organic="0.0" synthetic="36.0" />
+            <RecycleData exotic="0.0" mineral="90.0" organic="0.0" synthetic="24.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_Fried_Hard_Drive" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2419,7 +2419,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="30.0" mineral="0.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="20.0" mineral="0.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2436,7 +2436,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="45.0" mineral="0.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="30.0" mineral="0.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2453,7 +2453,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="60.0" mineral="0.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="40.0" mineral="0.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2470,7 +2470,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="225.0" mineral="0.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="150.0" mineral="0.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2538,7 +2538,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="150.0" mineral="0.0" organic="0.0" synthetic="150.0" />
+            <RecycleData exotic="100.0" mineral="0.0" organic="0.0" synthetic="100.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Grenade" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="10" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="1" />
@@ -2555,7 +2555,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="150.0" />
+            <RecycleData exotic="0.0" mineral="100.0" organic="0.0" synthetic="100.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Grenade" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="1" iMaxCount="10" bRandomizeCount="0" iRandomMax="1" iRandomMin="1" bStackable="1" />
@@ -2589,7 +2589,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2606,7 +2606,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="40.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2623,7 +2623,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="40.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2640,7 +2640,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="60.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="40.0" synthetic="40.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Baseball_Glove" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2657,7 +2657,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2679,7 +2679,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="20.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Pickup_Food_Produce" audioTrigger_InventorySFX="Play_Pickup_Organics_02" audioTrigger_PickupSFX="Play_Pickup_Organics_02" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2701,7 +2701,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="300.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="0.0" synthetic="200.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Suit_Patch_Kit" audioTrigger_InventorySFX="Play_UFI_Suit_Patch_Kit" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_MultiTool" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="5" iRandomMin="1" bStackable="1" />
@@ -2755,7 +2755,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="60.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="40.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2772,7 +2772,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="120.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="80.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2790,7 +2790,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="90.0" />
+            <RecycleData exotic="0.0" mineral="200.0" organic="0.0" synthetic="60.0" />
             <Shotgun fAccurateShotChance="0.6" fDamageDropoffPerMeter="0.05" fEffectiveRange="20" nNumberOfPelletColumns="1" nNumberOfPelletRows="1" sOverrideTargetClasses="OverrideTargetClasses" fSpreadConeDegrees="0">
                 <DebugTesting fDebugDrawTime="20" nNumTestPoints="1000" />
                 <Dispersion fAmount_Jumping="50" fAmount_Recoil="50" fAmount_Sliding="50" fMaximum="4" fMaximumCrawling="2" fMaximumIronsights="2" fMaximumSneaking="2" fMaximumSprinting="2.75" fMinimum="3" fMinimumCrawling="1" fMinimumIronsights="1" fMinimumSneaking="1" fMinimumSprinting="0.07" fRate_Crawling="0" fRate_IronSights="0" fRate_Moving="10" fRate_NotMoving="-15" fRate_NotTurning="0" fRate_Sneaking="0" fRate_Sprinting="50" fRate_Standing="0" fRate_Turning="0" fRate_ZeroG="50" />
@@ -2901,7 +2901,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2919,7 +2919,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="300.0" />
+            <RecycleData exotic="0.0" mineral="200.0" organic="0.0" synthetic="200.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -2970,7 +2970,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="225.0" mineral="0.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="150.0" mineral="0.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -2987,7 +2987,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="450.0" mineral="0.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="300.0" mineral="0.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_OrganicOrgan_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -3004,7 +3004,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="3.0" organic="0.0" synthetic="3.0" />
+            <RecycleData exotic="0.0" mineral="2.0" organic="0.0" synthetic="2.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="TEMP_UI_00" audioTrigger_PickupSFX="Play_Pickup_Recycler_Grenade" />
             <Stacks iCount="100" iDropIncrement="100" iFabricationCount="150" iMaxCount="10000" bRandomizeCount="1" iRandomMax="90" iRandomMin="40" bStackable="1" />
@@ -3039,7 +3039,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3142,7 +3142,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3244,7 +3244,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PickupSFX="Pickup" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3262,7 +3262,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3280,7 +3280,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3298,7 +3298,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3399,7 +3399,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3433,7 +3433,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3451,7 +3451,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3469,7 +3469,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3487,7 +3487,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3505,7 +3505,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3523,7 +3523,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3541,7 +3541,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3576,7 +3576,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3594,7 +3594,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3616,7 +3616,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -3639,7 +3639,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="30.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="20.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UFI_Bottle" audioTrigger_InventorySFX="Play_Pickup_Bottle" audioTrigger_PharmaStopSFX="" audioTrigger_PickupSFX="Play_Pickup_Bottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -3676,7 +3676,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3694,7 +3694,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3712,7 +3712,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3730,7 +3730,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3748,7 +3748,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3766,7 +3766,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3784,7 +3784,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3802,7 +3802,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3820,7 +3820,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3838,7 +3838,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3856,7 +3856,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3874,7 +3874,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3892,7 +3892,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3910,7 +3910,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3928,7 +3928,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3946,7 +3946,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3964,7 +3964,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -3982,7 +3982,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4000,7 +4000,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4018,7 +4018,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4036,7 +4036,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4054,7 +4054,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4072,7 +4072,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4090,7 +4090,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4108,7 +4108,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4143,7 +4143,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4161,7 +4161,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4196,7 +4196,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4231,7 +4231,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4249,7 +4249,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4312,7 +4312,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4330,7 +4330,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="100.0" organic="0.0" synthetic="30.0" />
             <Shotgun fAccurateShotChance="1" fAimRange="5" fDamageDropoffPerMeter="0.1" fEffectiveRange="8" nNumberOfPelletColumns="3" nNumberOfPelletRows="3" fSpreadConeDegrees="8">
                 <DebugTesting fDebugDrawTime="10" nNumTestPoints="1000" />
                 <Dispersion fAmount_Jumping="0" fAmount_Recoil="0" fAmount_Sliding="0" fMaximum="15" fMaximumCrawling="15" fMaximumIronsights="15" fMaximumSneaking="15" fMinimum="15" fMinimumCrawling="15" fMinimumIronsights="15" fMinimumSneaking="15" fRate_Crawling="0" fRate_IronSights="0" fRate_Moving="0" fRate_NotMoving="0" fRate_NotTurning="0" fRate_Sneaking="0" fRate_Sprinting="0" fRate_Standing="0" fRate_Turning="0" fRate_ZeroG="0" />
@@ -4429,7 +4429,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_Use_Pharma_AnitHazard" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4447,7 +4447,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="0.0" organic="45.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="0.0" organic="30.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_Compost_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4498,7 +4498,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="135.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="90.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="" audioTrigger_PickupSFX="Play_PU_FrayedWire_01" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4516,7 +4516,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4534,7 +4534,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="30.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="20.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_InventorySFX="Play_Player_SuitMod" audioTrigger_PickupSFX="Play_Pickup_SuitMod" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="10" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="0" />
@@ -4641,7 +4641,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UI_Survival_Pharma_Bleed" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4664,7 +4664,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UI_Survival_Pharma_Burn" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4687,7 +4687,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UI_Survival_Pharma_Concussion" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />
@@ -4710,7 +4710,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="15.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="10.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_ConsumeSFX="Play_UI_Survival_Pharma_Hobbled" audioTrigger_InventorySFX="Play_Pickup_Pharma" audioTrigger_PharmaStopSFX="Play_Psi_Research_LoseTarget" audioTrigger_PickupSFX="Play_Pickup_PillBottle" />
             <Stacks iCount="1" iDropIncrement="1" iFabricationCount="0" iMaxCount="1000" bRandomizeCount="0" iRandomMax="10" iRandomMin="1" bStackable="1" />

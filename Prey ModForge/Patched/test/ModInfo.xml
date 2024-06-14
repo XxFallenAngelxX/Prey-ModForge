@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Mod
-    modName="test"
-    displayName="test"
+    modName="Test"
+    displayName="Test"
     version="1.0"
     author="Mod Author"
     dllName=""

@@ -11,7 +11,7 @@
                     <Noise gameNoiseLoudness_loudness="9469288860501649210" gameNoiseType_type="9469288860501649125" />
                 </Grenade>
             </Projectile>
-            <RecycleData exotic="0.0" mineral="225.0" organic="0.0" synthetic="450.0" />
+            <RecycleData exotic="0.0" mineral="150.0" organic="0.0" synthetic="300.0" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
         </Properties>
         <ObjectVars OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" ShadowCasterType="0" CastSunShadowMinSpec="8" LodRatio="100" ViewDistRatio="100" CastShadowViewDistRatio="0" HiddenInGame="0" GlobalInSegmentedWorld="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" SceneIndex="0" HiddenInProbes="0" />
@@ -34,7 +34,7 @@
                     <TimeToScaleChildrenRange max="0.6" min="0.4" />
                 </Goo>
             </Projectile>
-            <RecycleData exotic="0.0" mineral="3.0" organic="3.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="2.0" organic="2.0" synthetic="0.0" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
         </Properties>
         <ObjectVars OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" ShadowCasterType="0" CastSunShadowMinSpec="8" LodRatio="100" ViewDistRatio="100" CastShadowViewDistRatio="0" HiddenInGame="0" GlobalInSegmentedWorld="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" SceneIndex="0" HiddenInProbes="0" />
@@ -85,7 +85,7 @@
                     <Noise gameNoiseLoudness_loudness="10850392949532183296" gameNoiseType_type="9469288860501649125" />
                 </Grenade>
             </Projectile>
-            <RecycleData exotic="225.0" mineral="450.0" organic="0.0" synthetic="225.0" />
+            <RecycleData exotic="150.0" mineral="300.0" organic="0.0" synthetic="150.0" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
         </Properties>
         <ObjectVars OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" ShadowCasterType="0" CastSunShadowMinSpec="8" LodRatio="100" ViewDistRatio="100" CastShadowViewDistRatio="0" HiddenInGame="0" GlobalInSegmentedWorld="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" SceneIndex="0" HiddenInProbes="0" />
@@ -103,7 +103,7 @@
                     <Noise gameNoiseLoudness_loudness="10850392949532183296" gameNoiseType_type="9469288860501649125" />
                 </Grenade>
             </Projectile>
-            <RecycleData exotic="225.0" mineral="225.0" organic="0.0" synthetic="450.0" />
+            <RecycleData exotic="150.0" mineral="150.0" organic="0.0" synthetic="300.0" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
         </Properties>
         <ObjectVars OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" ShadowCasterType="0" CastSunShadowMinSpec="8" LodRatio="100" ViewDistRatio="100" CastShadowViewDistRatio="0" HiddenInGame="0" GlobalInSegmentedWorld="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" CreatedThroughPool="0" SceneIndex="0" HiddenInProbes="0" />

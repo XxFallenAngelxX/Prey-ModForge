@@ -248,7 +248,7 @@
                 <ForeignData bMovingPlatform="0" />
                 <Simulation damping="0" bFixedDamping="0" max_time_step="0.02" sleep_speed="0.04" bUseSimpleSolver="0" />
             </Physics>
-            <RecycleData exotic="0.0" mineral="15.0" organic="0.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="10.0" organic="0.0" synthetic="0.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_Carry="Play_Player_Carry" audioTrigger_HoldCarryCancel="" audioTrigger_HoldCarryStart="" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
@@ -962,7 +962,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="30.0" synthetic="0.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="20.0" synthetic="0.0" />
             <Sound audioTrigger_Carry="Play_OBJ_IceBlock_Carry" audioTrigger_DestroySound="Play_OBJ_IceBlock_Shatter" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
         </Properties>
@@ -1165,7 +1165,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_Carry="" audioTrigger_HoldCarryCancel="" audioTrigger_HoldCarryStart="" audioTrigger_Start="Play_CrewFacilities_Instruments_Keytar" audioTrigger_Stop="" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
@@ -1186,7 +1186,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="20.0" organic="0.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_Carry="" audioTrigger_HoldCarryCancel="" audioTrigger_HoldCarryStart="" audioTrigger_Start="Play_CrewFacilities_Instruments_Bass" audioTrigger_Stop="" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />
@@ -1207,7 +1207,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="45.0" organic="0.0" synthetic="15.0" />
+            <RecycleData exotic="0.0" mineral="30.0" organic="0.0" synthetic="10.0" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_Carry="" audioTrigger_HoldCarryCancel="" audioTrigger_HoldCarryStart="" audioTrigger_Start="Play_CrewFacilities_Instruments_Drums" audioTrigger_Stop="" />
             <AdditionalArchetypeProperties PrototypeMaterial="" />

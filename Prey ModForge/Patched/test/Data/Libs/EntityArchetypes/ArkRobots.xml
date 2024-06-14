@@ -47,7 +47,7 @@
                     <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="1" bT_gcc_breakable="0" bT_gcc_coral="0" bT_gcc_goo="0" bT_gcc_permeable="0" bT_gcc_permeable_to_AOE="1" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_projectile="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_smokeform="0" bT_gcc_transparent="0" bT_gcc_unclimbable="0" bT_gcc_vehicle="0" />
                 </CollisionFiltering>
             </Physics>
-            <RecycleData exotic="0.0" mineral="450.0" organic="0.0" synthetic="450.0" />
+            <RecycleData exotic="0.0" mineral="300.0" organic="0.0" synthetic="300.0" />
             <Repair textDisplayNameBroken="@loc_6062853811637017380" nHoldToUseDuration="1000" bRepairable="1" fRepairIconRange="10" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="4" />
             <Silhouette fAlpha="0.25" color_RGB="1,1,1" />
             <Sound audioTrigger_Carry="Play_Player_Carry" audioTrigger_DamagedStart="Play_Turret_Damage_LP" audioTrigger_DamagedStop="Stop_Turret_Damage_LP" audioTrigger_Destroy="Play_Turret_Destroyed" audioTrigger_Detect="Play_Turret_Detect" audioTrigger_DisabledStart="Play_Turret_Damage_LP" audioTrigger_DisabledStopDestroyed="Play_Turret_Destroyed" audioTrigger_DisabledStopRepaired="Stop_Turret_Repair_LP" audioTrigger_Fire="Play_Turret_Fire" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_GooStuck="" audioTrigger_LostTarget="Play_TurretMech_04" audioTrigger_RepairLoop="Play_Turret_Repair_LP" audioTrigger_RepairStop="Stop_Turret_Repair_LP" audioTrigger_StunnedStart="Play_Turret_Stunned_LP" audioTrigger_StunnedStop="Stop_Turret_Stunned_LP" />
@@ -122,7 +122,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_medopbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="4" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Med_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Med_Exist_LP" audioTrigger_Death="Play_Operator_Medical_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -202,7 +202,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_milopbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="4" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Military_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Military_Exist_LP" audioTrigger_Death="Play_Operator_Military_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -283,7 +283,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_engopbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="4" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist" audioTrigger_Death="Play_Operator_Engineering_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -364,7 +364,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_sciopbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="4" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -445,7 +445,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_coropbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="0" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist_Crpt" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist_Crpt" audioTrigger_Death="Play_Operator_Corrupted_Engineering_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -526,7 +526,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_coropbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="0" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Corrupted_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Corrupted_LP" audioTrigger_Death="Play_Operator_Corrupted_Medical_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -606,7 +606,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_coropbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="0" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Corrupted_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Corrupted_LP" audioTrigger_Death="Play_Operator_Corrupted_Military_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -687,7 +687,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_coropbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="0" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Corrupted_LP_Science" audioTrigger_AmbientLivingStop="Stop_Operator_Corrupted_LP" audioTrigger_Death="Play_Operator_Corrupted_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -767,7 +767,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_milopbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Military_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Military_Exist_LP" audioTrigger_Death="Play_Operator_Military_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -848,7 +848,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_januarybroken" nHoldToUseDuration="1000" bRepairable="0" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347167" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -928,7 +928,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_kasparbroken" nHoldToUseDuration="1000" bRepairable="0" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347167" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Military_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Military_Exist_LP" audioTrigger_Death="Play_Operator_Military_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1009,7 +1009,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_skilletbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist" audioTrigger_Death="Play_Operator_Engineering_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1090,7 +1090,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_cazavorbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1171,7 +1171,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_decemberbroken" nHoldToUseDuration="1000" bRepairable="0" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1252,7 +1252,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_igwebroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1332,7 +1332,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_sarahbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Military_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Military_Exist_LP" audioTrigger_Death="Play_Operator_Military_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1413,7 +1413,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_daniellebroken" nHoldToUseDuration="1000" bRepairable="0" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347167" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1494,7 +1494,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_mikhailabroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist" audioTrigger_Death="Play_Operator_Engineering_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1575,7 +1575,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_softshellbroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347167" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Engineering_Exist" audioTrigger_AmbientLivingStop="Stop_Operator_Engineering_Exist" audioTrigger_Death="Play_Operator_Engineering_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1656,7 +1656,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_januarybroken" nHoldToUseDuration="1000" bRepairable="0" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347167" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
@@ -1737,7 +1737,7 @@
                 </CollisionFiltering>
             </Physics>
             <PlayerInteractions bCanBeGrabbed="0" esGrabType="" bStealthKill="0" />
-            <RecycleData exotic="0.0" mineral="255.0" organic="0.0" synthetic="45.0" />
+            <RecycleData exotic="0.0" mineral="170.0" organic="0.0" synthetic="30.0" />
             <Rendering bWrinkleMap="0" />
             <Repair textDisplayNameBroken="@npc_tizzybroken" nHoldToUseDuration="1000" bRepairable="1" archetype_RepairItem="ArkPickups.Misc.SpareParts" ability_RepairRequirement="3149325216929347163" nSparePartsRequired="1" />
             <Sound audioTrigger_AmbientLivingStart="Play_Operator_Sci_Exist_LP" audioTrigger_AmbientLivingStop="Stop_Operator_Sci_Exist_LP" audioTrigger_Death="Play_Operator_Science_Death" audioTrigger_FortifyLoop="Play_Turret_Fortify_LP" audioTrigger_FortifyStop="Stop_Turret_Fortify" audioTrigger_RepairLoop="Play_Operator_Repair_Start_LP" audioTrigger_RepairStop="Stop_Operator_Repair_LP">
