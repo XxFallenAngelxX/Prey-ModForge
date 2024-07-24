@@ -2,13 +2,29 @@ import os
 import sys
 import subprocess
 import shutil
-import xml.etree.ElementTree as ET
+#import xml.etree.ElementTree as ET
+import lxml.etree as ET
 import logging
 import getch 
 import time
 from collections import defaultdict
 from colorama import init, Fore, Style
 import zipfile
+
+def get_element_path(element, root):
+    path = []
+    current = element
+    while current is not root:
+        parent = root.find(f".//{current.tag}[.//{current.tag}='{current.text}']")
+        if parent is not None:
+            index = list(parent).index(current)
+            path.append(f"{current.tag}[{index}]")
+        else:
+            path.append(current.tag)
+        current = parent
+    path.reverse()
+    return "/".join(path)
+
 
 # Function to check and install colorama
 def install_colorama():
@@ -94,8 +110,14 @@ def modify_xml_file(file_path, multiplier, changes_summary, error_summary):
                         error_summary[attribute] += 1
                         logging.warning(f"Skipping non-numeric value for {attribute} in {file_path}")
                         print(Fore.YELLOW + f"Skipping non-numeric value for {attribute} in {file_path}" + Style.RESET_ALL)
-        
-        tree.write(file_path)
+
+        # Apply the XSLT transformation
+        xslt_tree = ET.parse("transform.xslt")
+        transform = ET.XSLT(xslt_tree)
+        new_tree = transform(tree)
+        new_tree_str = ET.tostring(new_tree, pretty_print=True, encoding="unicode")
+
+        new_tree.write(file_path, pretty_print=True, encoding="UTF-8", xml_declaration=True)
         logging.info(f"File saved: {file_path}")
     except ET.ParseError as e:
         logging.error(f"Failed to parse {file_path}: {e}")
