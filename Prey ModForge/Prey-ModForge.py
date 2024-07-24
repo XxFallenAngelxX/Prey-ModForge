@@ -2,9 +2,9 @@ import os
 import sys
 import subprocess
 import shutil
-import xml.etree.ElementTree as ET
+import lxml.etree as ET
 import logging
-import msvcrt
+import getch 
 import time
 from collections import defaultdict
 from colorama import init, Fore, Style
@@ -64,7 +64,7 @@ def display_multiplier_menu():
     
     while True:
         try:
-            choice = msvcrt.getch().decode('utf-8')
+            choice = getch.getch()
             if choice in '12345':
                 multipliers = {'1': 1.5, '2': 2, '3': 3, '4': 5, '5': 20}
                 logging.info(f"Multiplier selected: {multipliers[choice]}")
@@ -94,8 +94,13 @@ def modify_xml_file(file_path, multiplier, changes_summary, error_summary):
                         error_summary[attribute] += 1
                         logging.warning(f"Skipping non-numeric value for {attribute} in {file_path}")
                         print(Fore.YELLOW + f"Skipping non-numeric value for {attribute} in {file_path}" + Style.RESET_ALL)
-        
-        tree.write(file_path)
+
+        # Apply the XSLT transformation
+        xslt_tree = ET.parse("transform.xslt")
+        transform = ET.XSLT(xslt_tree)
+        new_tree = transform(tree)
+        new_tree.write(file_path, pretty_print=True, encoding="UTF-8", xml_declaration=True)
+
         logging.info(f"File saved: {file_path}")
     except ET.ParseError as e:
         logging.error(f"Failed to parse {file_path}: {e}")
@@ -242,7 +247,7 @@ def main():
         logging.info(f"Total parse errors: {error_summary['parse_errors']}")
 
         print(Fore.CYAN + "\nWhat would you like to do next? (1: Create another mod, 2: Quit): " + Style.RESET_ALL)
-        next_action = msvcrt.getch().decode('utf-8')
+        next_action = getch.getch()
         if next_action == '1':
             continue
         elif next_action == '2':
