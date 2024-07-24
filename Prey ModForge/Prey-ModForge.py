@@ -4,7 +4,7 @@ import subprocess
 import shutil
 import lxml.etree as ET
 import logging
-import getch 
+import msvcrt
 import time
 from collections import defaultdict
 from colorama import init, Fore, Style
@@ -63,17 +63,14 @@ def display_multiplier_menu():
     print("5. 20x")
     
     while True:
-        try:
-            choice = getch.getch()
-            if choice in '12345':
-                multipliers = {'1': 1.5, '2': 2, '3': 3, '4': 5, '5': 20}
-                logging.info(f"Multiplier selected: {multipliers[choice]}")
-                print(f"\nSelected multiplier: {multipliers[choice]}")
-                return multipliers[choice]
-            else:
-                print(Fore.RED + "Invalid choice. Please enter a number between 1 and 5." + Style.RESET_ALL)
-        except ValueError:
-            print(Fore.RED + "Invalid input. Please enter a number between 1 and 5." + Style.RESET_ALL)
+        choice = msvcrt.getch().decode('utf-8')
+        if choice in '12345':
+            multipliers = {'1': 1.5, '2': 2, '3': 3, '4': 5, '5': 20}
+            logging.info(f"Multiplier selected: {multipliers[choice]}")
+            print(f"\nSelected multiplier: {multipliers[choice]}")
+            return multipliers[choice]
+        else:
+            print(Fore.RED + "Invalid choice. Please enter a number between 1 and 5." + Style.RESET_ALL)
 
 # Function to modify XML files based on the selected multiplier
 def modify_xml_file(file_path, multiplier, changes_summary, error_summary):
@@ -247,7 +244,7 @@ def main():
         logging.info(f"Total parse errors: {error_summary['parse_errors']}")
 
         print(Fore.CYAN + "\nWhat would you like to do next? (1: Create another mod, 2: Quit): " + Style.RESET_ALL)
-        next_action = getch.getch()
+        next_action = msvcrt.getch().decode('utf-8')
         if next_action == '1':
             continue
         elif next_action == '2':
