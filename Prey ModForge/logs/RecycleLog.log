@@ -48,3 +48,32 @@
 2024-07-24 18:14:52,460 - INFO -   Synthetic - Modified: 1390, Errors: 0
 2024-07-24 18:14:52,460 - INFO - Total parse errors: 0
 2024-07-24 18:14:53,683 - INFO - Quitting the script. Goodbye!
+2024-07-24 20:25:31,837 - INFO - Script started for RecycleTable feature
+2024-07-24 20:27:05,574 - INFO - Created Patched folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data
+2024-07-24 20:27:34,107 - INFO - Script started for RecycleTable feature
+2024-07-24 20:27:41,292 - INFO - Replaced existing folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test
+2024-07-24 20:27:41,292 - INFO - Created Patched folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data
+2024-07-24 20:28:39,186 - INFO - Script started for RecycleTable feature
+2024-07-24 20:28:41,838 - INFO - Replaced existing folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test
+2024-07-24 20:28:41,838 - INFO - Created Patched folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data
+2024-07-24 20:28:42,918 - INFO - Multiplier selected: 1.5
+2024-07-24 20:28:43,008 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkPhysicsProps.xml
+2024-07-24 20:28:43,112 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkHumans.xml
+2024-07-24 20:28:43,127 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkRobots.xml
+2024-07-24 20:28:43,147 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkGameplayArchitecture.xml
+2024-07-24 20:28:43,160 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkInteractiveProps.xml
+2024-07-24 20:28:43,211 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkLights.xml
+2024-07-24 20:28:43,227 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkNpcs.xml
+2024-07-24 20:28:43,258 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/ArkPickups.xml
+2024-07-24 20:28:43,264 - INFO - File saved: /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/Data/Libs/EntityArchetypes/arkprojectiles.xml
+2024-07-24 20:28:43,264 - INFO - ModInfo.xml created at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test/ModInfo.xml
+2024-07-24 20:28:43,264 - INFO - Patch created successfully
+2024-07-24 20:28:43,319 - INFO - Mod zipped successfully at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test.zip
+2024-07-24 20:28:43,320 - INFO - Deleted unzipped mod folder at /Users/dtuecks/jan/Prey-ModForge/Prey ModForge/Patched/test
+2024-07-24 20:28:43,320 - INFO - Summary of modifications:
+2024-07-24 20:28:43,320 - INFO -   Exotic - Modified: 1390, Errors: 0
+2024-07-24 20:28:43,320 - INFO -   Mineral - Modified: 1390, Errors: 0
+2024-07-24 20:28:43,320 - INFO -   Organic - Modified: 1390, Errors: 0
+2024-07-24 20:28:43,320 - INFO -   Synthetic - Modified: 1390, Errors: 0
+2024-07-24 20:28:43,320 - INFO - Total parse errors: 0
+2024-07-24 20:28:51,312 - INFO - Quitting the script. Goodbye!
