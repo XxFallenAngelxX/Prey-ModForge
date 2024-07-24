@@ -1,15 +1,12 @@
 ## To-Do List
 
-1. **Ensure Minimal Changes**
-    - Only modify the necessary components to maximize compatibility with other mods.
-
-2. **Add Future Support**
+1. **Add Future Support**
     - Plan and implement support for additional types of mods, such as:
         - Expanded Databases
         - Additional Python scripts
         - Modding templates
 
-3. **Integrate C# Built Functionality**
+2. **Integrate C# Built Functionality**
     - Integrate C# to allow creating mods based on templates for the Prey 2017 mod loader (Chairloader), so that Chairloader simply injects the DLL mods at runtime.
         - Provide templates and settings to simplify the process for beginners.
         - Ensure compatibility with the Chairloader API for injecting mods into the game's memory.

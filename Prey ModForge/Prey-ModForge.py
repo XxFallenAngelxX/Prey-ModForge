@@ -75,28 +75,49 @@ def display_multiplier_menu():
 # Function to modify XML files based on the selected multiplier
 def modify_xml_file(file_path, multiplier, changes_summary, error_summary):
     try:
+        # Parse the XML file
         tree = ET.parse(file_path)
         root = tree.getroot()
+        
+        # Add ch:patch_mode="true" to each EntityPrototype
+        nsmap = {'ch': "http://www.w3.org/2001/XMLSchema-instance"}
+        for entity_prototype in root.findall(".//EntityPrototype"):
+            entity_prototype.set("{http://www.w3.org/2001/XMLSchema-instance}patch_mode", "true")
+            
+            for recycle_data in entity_prototype.findall(".//RecycleData"):
+                for attribute in ["exotic", "mineral", "organic", "synthetic"]:
+                    if recycle_data.attrib.get(attribute):
+                        try:
+                            value = float(recycle_data.attrib[attribute])
+                            new_value = value * multiplier
+                            recycle_data.set(attribute, str(new_value))
+                            changes_summary[attribute]['modified'] += 1
+                        except ValueError:
+                            error_summary[attribute] += 1
+                            logging.warning(f"Skipping non-numeric value for {attribute} in {file_path}")
+                            print(Fore.YELLOW + f"Skipping non-numeric value for {attribute} in {file_path}" + Style.RESET_ALL)
 
-        # Iterate over all RecycleData elements and modify their attributes
-        for recycle_data in root.findall(".//RecycleData"):
-            for attribute in ["exotic", "mineral", "organic", "synthetic"]:
-                if recycle_data.attrib.get(attribute):
-                    try:
-                        value = float(recycle_data.attrib[attribute])
-                        new_value = value * multiplier
-                        recycle_data.set(attribute, str(new_value))
-                        changes_summary[attribute]['modified'] += 1
-                    except ValueError:
-                        error_summary[attribute] += 1
-                        logging.warning(f"Skipping non-numeric value for {attribute} in {file_path}")
-                        print(Fore.YELLOW + f"Skipping non-numeric value for {attribute} in {file_path}" + Style.RESET_ALL)
+        # Remove the namespace declaration in the output
+        for elem in root.getiterator():
+            if not hasattr(elem.tag, 'find'):
+                continue
+            i = elem.tag.find('}')
+            if i > 0:
+                elem.tag = elem.tag[i+1:]
+            for k, v in elem.attrib.items():
+                if k.startswith('{'):
+                    elem.attrib[k.split('}', 1)[1]] = v
+                    del elem.attrib[k]
 
-        # Apply the XSLT transformation
-        xslt_tree = ET.parse("transform.xslt")
-        transform = ET.XSLT(xslt_tree)
-        new_tree = transform(tree)
-        new_tree.write(file_path, pretty_print=True, encoding="UTF-8", xml_declaration=True)
+        # Write the modified XML to a string
+        modified_xml = ET.tostring(tree, pretty_print=True, encoding="UTF-8", xml_declaration=True).decode()
+
+        # Manually remove the namespace declaration
+        modified_xml = modified_xml.replace(' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"', '')
+
+        # Save the modified XML string to the file
+        with open(file_path, 'w', encoding='UTF-8') as f:
+            f.write(modified_xml)
 
         logging.info(f"File saved: {file_path}")
     except ET.ParseError as e:
